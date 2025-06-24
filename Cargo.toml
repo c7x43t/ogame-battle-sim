@@ -1,0 +1,11 @@
+[package]
+name = "ogame-battle-sim"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rand = "0.9"
+rand_xoshiro = "0.7"
+once_cell = "1"
+fastrand = "2"
+smallvec = "1"
